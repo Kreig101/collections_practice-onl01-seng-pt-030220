@@ -60,6 +60,7 @@ def add_s(array)
   array.each do |x| 
   new_array  << x + "s"
     new_array[1] = "feet"
+    new_array.slice[2]
 end
 new_array
 end
