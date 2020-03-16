@@ -63,4 +63,5 @@ def add_s(array)
     
 end
 new_array.delete_at(2)
+return new_array
 end
