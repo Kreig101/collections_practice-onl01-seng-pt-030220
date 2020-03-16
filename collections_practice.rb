@@ -60,7 +60,7 @@ def add_s(array)
   array.each do |x| 
   new_array  << x + "s"
     new_array[1] = "feet"
-    new_array.delete_at(-1)
+    new_array.delete_at(1)
 end
 new_array
 end
