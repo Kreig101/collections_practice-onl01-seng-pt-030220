@@ -63,4 +63,3 @@ def add_s(array)
 end
 new_array
 end
-end
